@@ -1,13 +1,13 @@
-# 💊 Revenge Manager
+# Zancord Manager
 
-This documentation explains how to use [Revenge Manager](https://github.com/revenge-mod/revenge-manager).
+This documentation explains how to use [Zancord Manager](https://github.com/zanfiel/zancord-manager).
 
-## 📖 Table of contents
+## Table of contents
 
 TODO.
 
-## ⏭️ Start here
+## Start here
 
-The next page will tell you about the prerequisites for using Revenge Manager.
+The next page will tell you about the prerequisites for using Zancord Manager.
 
-Continue: [💼 Prerequisites](0_prerequisites.md)
+Continue: [Prerequisites](0_prerequisites.md)
